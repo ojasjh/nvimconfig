@@ -1,6 +1,2 @@
-require('config.config')
-require('core.lazy_setup')
-
-
-
-
+require("config.config")
+require("core.lazy_setup")
